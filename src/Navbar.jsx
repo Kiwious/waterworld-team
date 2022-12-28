@@ -8,7 +8,7 @@ const Navbar = () => {
             <ul>
                 <CustomLink to='/'>Home</CustomLink>
                 <CustomLink to='/events'>Events</CustomLink>
-                <CustomLink to='/team'>Team</CustomLink>
+                <a href="https://2no.co/team">Team</a>
                 <CustomLink to='/partner'>Partner</CustomLink>
             </ul>
         </nav>
