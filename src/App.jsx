@@ -15,7 +15,7 @@ const App = () => {
         <Navbar />
         <div className="wrapper">
             <Routes>
-                <Route path="/" element={<Home />} />
+                <Route path="/waterworld-team" element={<Home />} />
                 <Route path="/team" element={<Team />} />
                 <Route path="/events" element={<Events />} />
                 <Route path="/partner" element={<Partner />} />
