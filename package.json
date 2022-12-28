@@ -2,7 +2,7 @@
   "name": "waterworld-team",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kiwious.github.io/waterworld-team",
+  "homepage": "https://kiwious.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
