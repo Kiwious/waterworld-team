@@ -1,9 +1,27 @@
 import React from "react";
-import Header from "./components/Header";
+
+import Navbar from "./Navbar";
+import Events from './pages/Events'
+import Team from './pages/Team'
+import Home from "./pages/Home";
+import Partner from "./pages/Partner";
+
+import { Route, Routes } from 'react-router-dom'
 
 const App = () => {
+
     return (
-        <Header />
+        <>
+        <Navbar />
+        <div className="wrapper">
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/team" element={<Team />} />
+                <Route path="/events" element={<Events />} />
+                <Route path="/partner" element={<Partner />} />
+            </Routes>
+        </div>
+        </>
     );
 }
 
