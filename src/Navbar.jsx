@@ -8,8 +8,9 @@ const Navbar = () => {
             <ul>
                 <CustomLink to='/'>Home</CustomLink>
                 <CustomLink to='/events'>Events</CustomLink>
-                <a href="https://2no.co/team">Team</a>
+                <CustomLink to="/team">Team</CustomLink>
                 <CustomLink to='/partner'>Partner</CustomLink>
+                <a className="inviteButton" href="https://2no.co/wwinvite">Invite</a>
             </ul>
         </nav>
     );

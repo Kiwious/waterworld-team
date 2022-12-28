@@ -54,3 +54,13 @@ body {
     background-color: #15245b;
     border-radius: 5px;
 }
+
+.inviteButton {
+    background-color: #131391;
+    border-radius: 5px;
+}
+
+.inviteButton:hover {
+    background-color: #15245b;
+    border-radius: 5px;
+}
