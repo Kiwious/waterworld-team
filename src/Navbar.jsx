@@ -6,6 +6,7 @@ const Navbar = () => {
         <nav className="nav">
             <Link to="/" className="siteTitle">Waterworld</Link>
             <ul>
+                <CustomLink to='/'>Home</CustomLink>
                 <CustomLink to='/events'>Events</CustomLink>
                 <CustomLink to='/team'>Team</CustomLink>
                 <CustomLink to='/partner'>Partner</CustomLink>
