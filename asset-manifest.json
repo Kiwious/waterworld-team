@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/waterworld-team/static/css/main.6c726776.css",
-    "main.js": "/waterworld-team/static/js/main.d395ab35.js",
+    "main.css": "/waterworld-team/static/css/main.5236d1fc.css",
+    "main.js": "/waterworld-team/static/js/main.a57e6e2a.js",
     "index.html": "/waterworld-team/index.html",
-    "main.6c726776.css.map": "/waterworld-team/static/css/main.6c726776.css.map",
-    "main.d395ab35.js.map": "/waterworld-team/static/js/main.d395ab35.js.map"
+    "main.5236d1fc.css.map": "/waterworld-team/static/css/main.5236d1fc.css.map",
+    "main.a57e6e2a.js.map": "/waterworld-team/static/js/main.a57e6e2a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c726776.css",
-    "static/js/main.d395ab35.js"
+    "static/css/main.5236d1fc.css",
+    "static/js/main.a57e6e2a.js"
   ]
 }
